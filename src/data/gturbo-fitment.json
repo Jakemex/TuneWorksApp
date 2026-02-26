@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-02-25T11:06:54.997Z",
+  "platformTurbos": {
+    "LC70_1VD": [
+      "G333",
+      "G380",
+      "G400"
+    ],
+    "HILUX": [
+      "G250",
+      "G300",
+      "G333",
+      "G380",
+      "G400"
+    ],
+    "LC200_1VD": [
+      "G380",
+      "G450"
+    ]
+  },
+  "evidence": [
+    {
+      "turbo": "G333",
+      "platforms": [
+        "LC70_1VD",
+        "HILUX"
+      ],
+      "title": "Toyota Landcruiser VD-G333 Titan Ball Bearing",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-vd-g333-titan-ball-bearing/",
+      "sku": ""
+    },
+    {
+      "turbo": "G333",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "Toyota Landcruiser HD-G333 Titan",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-hd-g333-titan/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota GDJ70/Hilux/Prado 2.8 1GD-FTV GD-G300 Titan Ball Bearing",
+      "url": "https://gturbo.com.au/product/gd-g300t-bb/",
+      "sku": ""
+    },
+    {
+      "turbo": "G250",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota Hilux KD-G250 Titan",
+      "url": "https://gturbo.com.au/product/turbo-kd-g250-stage-2-grunter/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "Toyota Landcruiser HD-G380 Titan",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-hd-g350-badboy-3-5-cover-red-wheel-vortex-ii/",
+      "sku": ""
+    },
+    {
+      "turbo": "G250",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota Hilux/Prado 2.8 1GD-FTV GD-G250 Titan",
+      "url": "https://gturbo.com.au/product/gd-g250/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota Hilux KD-G300 Titan",
+      "url": "https://gturbo.com.au/product/turbo-kd-g300/",
+      "sku": ""
+    },
+    {
+      "turbo": "G400",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "Toyota Landcruiser HD-G400 Titanium",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-hd-g400-titanium/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota Hilux/Prado 2.8 1GD-FTV GD-G300 Titan",
+      "url": "https://gturbo.com.au/product/gd-g300/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "GTurbo KD-G320 Titanium",
+      "url": "https://gturbo.com.au/product/kd-g320-titanium/",
+      "sku": ""
+    },
+    {
+      "turbo": "G333",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "Toyota Landcruiser VD-G333 Titan",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-vd-g333-titan/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "Toyota Landcruiser VD-G380 Titan",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-vd-g380-titan/",
+      "sku": ""
+    },
+    {
+      "turbo": "G250",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1KD N70 Hilux Starter Package",
+      "url": "https://gturbo.com.au/product/1kd-n70-hilux-starter-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G250",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Starter Package (Gen 1/2)",
+      "url": "https://gturbo.com.au/product/1gd-starter-package-gen-1-2/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Starter Package (Gen 3/4)",
+      "url": "https://gturbo.com.au/product/1gd-starter-package-gen-3-4/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC70_1VD",
+        "HILUX"
+      ],
+      "title": "Toyota Landcruiser VD-G380 Ball Bearing",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-vd-g380-ball-bearing/",
+      "sku": ""
+    },
+    {
+      "turbo": "G400",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "Toyota Landcruiser VD-G400 Titanium Ball Bearing",
+      "url": "https://gturbo.com.au/product/toyota-landcruiser-vd-g400-titanium-ball-bearing/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "Toyota 200 Series Landcruiser VDTT-G380 Titan (Twin Turbo Pair)",
+      "url": "https://gturbo.com.au/product/toyota-200-series-landcruiser-vd-g380-green-twin-turbo-pair/",
+      "sku": ""
+    },
+    {
+      "turbo": "G450",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "Toyota 200 Series Landcruiser VDTT-G450 Titan (Twin Turbo Pair)",
+      "url": "https://gturbo.com.au/product/vdtt-g450-titan/",
+      "sku": ""
+    },
+    {
+      "turbo": "G450",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "Toyota 200 Series Landcruiser VDTT-G450 Titanium (Twin Turbo Pair)",
+      "url": "https://gturbo.com.au/product/vdtt-g450-titanium/",
+      "sku": ""
+    },
+    {
+      "turbo": "G333",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "VDJ70 Explorer Package",
+      "url": "https://gturbo.com.au/product/vdj70-explorer-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1KD N70 Warrior Package",
+      "url": "https://gturbo.com.au/product/1kd-n70-warrior-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "VDJ200 Explorer Package",
+      "url": "https://gturbo.com.au/product/vdj200-explorer-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1KD Prado Warrior Package",
+      "url": "https://gturbo.com.au/product/1kd-prado-warrior-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1KD N70 Adventurer Package",
+      "url": "https://gturbo.com.au/product/1kd-n70-adventurer-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G333",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "VDJ70 Adventurer Package",
+      "url": "https://gturbo.com.au/product/vdj70-adventurer-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Adventurer Package (Gen 1/2)",
+      "url": "https://gturbo.com.au/product/1gd-adventurer-package-gen-1-2/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Adventurer Package (Gen 3/4)",
+      "url": "https://gturbo.com.au/product/1gd-adventurer-package-gen-3-4/",
+      "sku": ""
+    },
+    {
+      "turbo": "G400",
+      "platforms": [
+        "LC70_1VD"
+      ],
+      "title": "VDJ70 Warrior Package",
+      "url": "https://gturbo.com.au/product/vdj70-warrior-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G380",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "VDJ200 Adventurer Package",
+      "url": "https://gturbo.com.au/product/vdj200-adventurer-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G450",
+      "platforms": [
+        "LC200_1VD"
+      ],
+      "title": "VDJ200 Warrior Package",
+      "url": "https://gturbo.com.au/product/vdj200-warrior-package/",
+      "sku": ""
+    },
+    {
+      "turbo": "G250",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Explorer Package (Gen 1/2)",
+      "url": "https://gturbo.com.au/product/1gd-explorer-package-gen-1-2/",
+      "sku": ""
+    },
+    {
+      "turbo": "G300",
+      "platforms": [
+        "HILUX"
+      ],
+      "title": "1GD Explorer Package (Gen 3/4)",
+      "url": "https://gturbo.com.au/product/1gd-explorer-package-gen-3-4/",
+      "sku": ""
+    }
+  ]
+}
